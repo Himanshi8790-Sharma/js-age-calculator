@@ -1,6 +1,6 @@
 # 🎂 Age Calculator App (React)
 
-🌐 **Live Demo:** [Click Here](https://legendary-faun-f5fed0.netlify.app/)  
+🌐 **Live Demo:** [Click Here](https://js-age-calculator-ruby.vercel.app/)  
 
 This is a simple yet enhanced **Age Calculator Web App** built using **React + Tailwind CSS**.  
 Originally inspired by a YouTube tutorial, but includes **self-developed features** and **design improvements**.
